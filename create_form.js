@@ -12,8 +12,8 @@ s.setAttribute('type',"submit");
 s.setAttribute('value',"Submit");
 
 
-elemForm.appendChild(i);
 elemForm.appendChild(label);
+elemForm.appendChild(i);
 elemForm.appendChild(s);
 
 
